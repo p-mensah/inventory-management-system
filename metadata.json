@@ -1,0 +1,5 @@
+{
+  "name": "JUBEL HAVILAH ENTERPRISE",
+  "description": "A comprehensive inventory management system to track products, manage stock levels, generate reports, and handle user roles. Features include real-time stock tracking, low-inventory alerts, CSV import/export, and printable reports.",
+  "requestFramePermissions": []
+}
